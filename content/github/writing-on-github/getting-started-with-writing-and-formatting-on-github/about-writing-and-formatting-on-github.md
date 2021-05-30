@@ -6,7 +6,7 @@ redirect_from:
   - /github/writing-on-github/about-writing-and-formatting-on-github
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
+  enterprise-server: '*'s#stackslack[@HelloTeam]
   github-ae: '*'
 ---
 [Markdown](http://daringfireball.net/projects/markdown/) is an easy-to-read, easy-to-write syntax for formatting plain text.
